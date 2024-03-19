@@ -36,13 +36,6 @@ not only identifies the problem but also presents the solution.
 - Ensure readability and coherence.
 - For English language contributions: Aim for a high score on [Grammarly](https://www.grammarly.com) or [Hemingway App](https://www.hemingwayapp.com/).
 
-### Does it move this repository closer to my vision for the repository
-
-The aim of this repository is:
-
-- Description of objective 1.
-- Description of objective 2.
-
 ### Does it follow the contributor covenant
 
 This repository has a [code of conduct](CODE_OF_CONDUCT.md), and contributions that violate it will be addressed accordingly.
