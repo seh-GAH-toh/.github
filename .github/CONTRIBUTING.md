@@ -2,51 +2,47 @@
 
 ## Issues
 
-Issues are very valuable to this project.
+Issues are immensely valuable to this project.
 
-- Ideas are a valuable source of contributions others can make
-- Problems show where this project is lacking
-- With a question you show where contributors can improve the user
-  experience
+- Ideas serve as a valuable source of potential contributions from others.
+- Problems highlight areas where this project requires improvement.
+- Questions indicate areas where contributors can enhance the user experience.
 
 Thank you for creating them.
 
 ## Pull Requests
 
-Pull requests are a great way to get your ideas into this repository.
+Pull requests offer an excellent avenue for incorporating your ideas into this repository.
 
-When deciding if I merge in a pull request I look at the following
-things:
+When determining whether to merge a pull request, I consider the following criteria:
 
 ### Does it state intent
 
-You should be clear which problem you're trying to solve with your contribution.
+You should clearly articulate the problem you're addressing with your contribution.
 
 For example:
 
-> Add link to code of conduct in README.md
+> Add a link to the code of conduct in README.md
 
-Doesn't tell me anything about why you're doing that
+does not provide insight into the rationale behind the change. Conversely,
 
-> Add link to code of conduct in README.md because users don't always
-> look in the CONTRIBUTING.md
+> Add a link to the code of conduct in README.md because users don't always look in the CONTRIBUTING.md
 
-Tells me the problem that you have found, and the pull request shows me
-the action you have taken to solve it.
+not only identifies the problem but also presents the solution.
 
 ### Is it of good quality
 
-- There are no spelling mistakes
-- It reads well
-- For english language contributions: Has a good score on [Grammarly](https://www.grammarly.com) or [Hemingway App](https://www.hemingwayapp.com/)
+- Ensure there are no spelling mistakes.
+- Ensure readability and coherence.
+- For English language contributions: Aim for a high score on [Grammarly](https://www.grammarly.com) or [Hemingway App](https://www.hemingwayapp.com/).
 
 ### Does it move this repository closer to my vision for the repository
 
 The aim of this repository is:
 
-- To assit in promoting and disassociating the End Poem from Minecraft/Microsoft.
-- Enhance the discoverability of Julian Gough and his other works.
+- Description of objective 1.
+- Description of objective 2.
 
 ### Does it follow the contributor covenant
 
-This repository has a [code of conduct](CODE_OF_CONDUCT.md), I will remove things that do not respect it.
+This repository has a [code of conduct](CODE_OF_CONDUCT.md), and contributions that violate it will be addressed accordingly.
